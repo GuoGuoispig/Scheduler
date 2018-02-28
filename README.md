@@ -8,7 +8,7 @@ g++ -std=c++0x main.cpp
 There would be a file called a.out in the same folder.
 Please command to see the result:
 ./a.out filepath of input (if input is in the same folder with the a.out, you can just type the file name.)
-###Tips
+### Tips
 There is no optional arguments like "verbose" since the procedure would print all the details, including details and choosed random numbers.
 
 
